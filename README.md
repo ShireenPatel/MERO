@@ -24,7 +24,8 @@ Main entities in Mero chatbot are:
 4. Transport
 
 # Integrating the bot in a testing website
-For this you will need to enable Dialogflow messenger in the Integrations section on your dialogflow agent dashboard. You will then have to past the code in the HTML section of your website. And voila! 
+For this you will need to enable Dialogflow messenger in the Integrations section on your dialogflow agent dashboard. You will then have to past the code in the HTML section of your website. And voila!
+![alt text](images/Screenshot (113).png)
 
 # Integrating the bot with telegram
 You need Telegram token which you will need to paste in the input field you see once you enable telegram in the Integrations section. This way your dialogflow agent and telegram gets connected. Now you can easily search for your bot name in telegram and start chatting with it. 
