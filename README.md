@@ -30,5 +30,9 @@ For this you will need to enable Dialogflow messenger in the Integrations sectio
 
 # Integrating the bot with telegram
 You need Telegram token which you will need to paste in the input field you see once you enable telegram in the Integrations section. This way your dialogflow agent and telegram gets connected. Now you can easily search for your bot name in telegram and start chatting with it. 
-
+![alt text](https://github.com/ShireenPatel/MERO/blob/main/images/Screenshot%20(115).png?raw=true)
+![alt text](https://github.com/ShireenPatel/MERO/blob/main/images/Screenshot%20(116).png?raw=true)
+![alt text](https://github.com/ShireenPatel/MERO/blob/main/images/Screenshot%20(117).png?raw=true)
+![alt text](https://github.com/ShireenPatel/MERO/blob/main/images/Screenshot%20(118).png?raw=true)
+![alt text](https://github.com/ShireenPatel/MERO/blob/main/images/Screenshot%20(128).png?raw=true)
 
