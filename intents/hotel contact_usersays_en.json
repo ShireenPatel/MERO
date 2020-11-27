@@ -1,0 +1,119 @@
+[
+  {
+    "id": "a1ae79b7-a38f-4a8f-b7c0-1409dd0643a7",
+    "data": [
+      {
+        "text": "tell more about the hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b3a0e64-e16b-44f3-b38b-29e15e74e95d",
+    "data": [
+      {
+        "text": "how can i know more about your hotel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a5196cf-bc25-45a5-9797-c9bca7b865c2",
+    "data": [
+      {
+        "text": "can you send me the hotel information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f0b132e-27c5-442b-8476-f49899985855",
+    "data": [
+      {
+        "text": "what is your phone number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efbf548b-cb5a-41cc-bd4b-536f0aefa5ca",
+    "data": [
+      {
+        "text": "what is the location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be4d1a9a-733a-423d-98dd-144103d02e96",
+    "data": [
+      {
+        "text": "where are you located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58a08138-3bc8-427a-91c1-7fbee0b2b002",
+    "data": [
+      {
+        "text": "what is the address of your hotel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38012ba8-c463-4525-9543-8d1f93f12b3a",
+    "data": [
+      {
+        "text": "do you have a website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4893cca3-58e8-453a-b44b-4e34787f7295",
+    "data": [
+      {
+        "text": "how can i contact you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

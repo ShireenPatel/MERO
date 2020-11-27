@@ -1,0 +1,163 @@
+{
+  "id": "4dd1dffa-4a17-4b17-b58c-f991d8f6ecef",
+  "name": "places to visit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.thegranddragonladakh.com/wp-content/uploads/2016/06/sankargompa.jpg",
+          "title": "Sankar Monastery",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Sankar+Gompa/@34.174051,77.5832598,17z/data\u003d!3m1!4b1!4m5!3m4!1s0x38fdee1de9057d5b:0x9b83810109da4f7b!8m2!3d34.174051!4d77.5854485",
+              "text": "Location"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This small monastery is a branch of Spituk Monastery, and prides itself on a collection of miniature statues with pure gold paintings."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMr9Hk5XCDHcS4TcdKZZ0nyL0cdkpJASlryn0zy\u003dw408-h306-k-no",
+          "title": "Leh Palace",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Leh+Palace/@34.1659783,77.5843845,17z/data\u003d!3m1!4b1!4m5!3m4!1s0x38fdeb150c993295:0xc41a8d83a5a327e6!8m2!3d34.1659783!4d77.5865732",
+              "text": "Location"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Built in the 17th Century, this is Sengge Namgyal’s imposing nine-story palace, jutting out of the slopes of Tsemo Hill overlooking the town of Leh."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN7ZXyUNyUBaywjRRqu_QTaSzuod5rc6q6QAspD\u003dw408-h271-k-no",
+          "title": "Nimmoo",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Nimmoo+194101/@34.1950047,77.3288379,15z/data\u003d!3m1!4b1!4m5!3m4!1s0x38fd987c84548313:0xf126b5c23debe5db!8m2!3d34.1951812!4d77.335314",
+              "text": "Location"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is the where the two mighty rivers, the Zanskar and Indus rivers meet and flow on as Indus, a popular spot for rafting. Amazingly the waters of the Indus are brown in the winters and blue in the summer, while Zanskar is blue-green in the winters and muddy brown ripples in the summer."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPfs2pocsQh3QPHzAWX2F_Shp3Ggq6-Najhzfiz\u003dw408-h272-k-no",
+          "title": "Nubra Valley",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Nubra+Valley/@34.6863138,77.5585332,15z/data\u003d!3m1!4b1!4m5!3m4!1s0x38fc367354176591:0x8bc4556bab23cae9!8m2!3d34.6863146!4d77.567288",
+              "text": "Location"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cross the world’s highest motorable road at Khardongla at 18,380 feet into the Nubra, literally meaning the valley of flowers. Famously known as Treaty Road, this is the ancient caravan route to Central Asia where you can still see double humped Bactrian camels ride the sand dunes, and with their cute unruly mop of hair."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSoX7WJ12W_-VlT11a0AI6PeLb8BWjChzJYRg\u0026usqp\u003dCAU",
+          "title": "Pangong Lake",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Pangong+Tso/@33.7595131,78.6674404,11z/data\u003d!4m13!1m7!3m6!1s0x39002d69b6082a97:0xb7ba17e3c8c016a9!2sPangong+Tso!3b1!8m2!3d33.7595131!4d78.6674404!3m4!1s0x39002d69b6082a97:0xb7ba17e3c8c016a9!8m2!3d33.7595131!4d78.6674404",
+              "text": "Location"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "At an altitude of 4530 m, with a width of 5/6 kms and a length of 130 kms, the ethereal beauty of Pangong is breathtaking. It’s waters glistening in shades of deep blue, turquoise and azure form part of the border between India and China."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

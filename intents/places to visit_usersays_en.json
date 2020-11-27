@@ -1,0 +1,93 @@
+[
+  {
+    "id": "09a83b93-2808-4611-91c3-18b4d4651377",
+    "data": [
+      {
+        "text": "local places to visit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b436051b-6f36-4c09-a406-f5796af246ff",
+    "data": [
+      {
+        "text": "places to go outside the hotel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e09a5dab-6ccc-42be-8aa0-7d2dc7dc4765",
+    "data": [
+      {
+        "text": "what are the nearby places to visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3981eda8-6733-4610-9dac-b9119e5cd249",
+    "data": [
+      {
+        "text": "places of interest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad9b63e6-1850-4dc8-9d23-cde225e35699",
+    "data": [
+      {
+        "text": "tourist destination?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63476c9c-7d6c-4143-9de6-cdac158bd75a",
+    "data": [
+      {
+        "text": "tourist places nearby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff0ed68a-81af-4f6a-bb2b-050f4b21e02c",
+    "data": [
+      {
+        "text": "what are the places to visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

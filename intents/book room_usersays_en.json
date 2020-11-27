@@ -1,0 +1,166 @@
+[
+  {
+    "id": "c72a2e8a-ce3a-4428-90a7-535296595d7e",
+    "data": [
+      {
+        "text": "on ",
+        "userDefined": false
+      },
+      {
+        "text": "12th December, 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "059b1c00-2efb-45be-98d0-6d236f2f7c92",
+    "data": [
+      {
+        "text": "single",
+        "meta": "@room-type",
+        "alias": "room-type",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0d96c03-50cb-4a4c-b611-2641d3e8ee58",
+    "data": [
+      {
+        "text": "My email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "shireen@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e2e4a89-28a8-4e38-abc2-e9705d4b9368",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d616dd1b-bf52-4af4-8417-8ae3134f6698",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Shireen",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "237b8a05-4639-4d59-82d3-f610fce00fd6",
+    "data": [
+      {
+        "text": "i need to book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52f7a673-3f1f-4a15-a457-ee19f7247bb5",
+    "data": [
+      {
+        "text": "book hotel room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db69dd10-714a-4fe8-ab26-e5137eba5019",
+    "data": [
+      {
+        "text": "book room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "394cd9d6-3f8b-40fe-beec-49540d2ebd4f",
+    "data": [
+      {
+        "text": "i would like to book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09e1e762-8454-4774-8348-03ee08658887",
+    "data": [
+      {
+        "text": "I want to book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

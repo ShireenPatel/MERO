@@ -1,0 +1,55 @@
+{
+  "id": "d8dd5b05-eabb-4c6b-aaca-2f8c4520d5fc",
+  "name": "transportation facility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "197df34b-8a50-4bf3-9ece-a5a8c902b7b1",
+          "name": "transport",
+          "required": true,
+          "dataType": "@transport",
+          "value": "$transport",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Yes. We offer transport facility. You will need to call us an hour before at the least for our driver to reach your pick up destination on time. May I know what type of car you might need? (Mini: max 2 people, Sedan: max 4 people, SUV: max 6 people)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay! We offer complimentary transport facility for guests who need it. Hence, there will be no extra cost added in you billing receipt."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

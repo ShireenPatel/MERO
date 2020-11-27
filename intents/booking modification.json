@@ -1,0 +1,105 @@
+{
+  "id": "c7d7533a-80ac-406e-97cd-272b49d5fb38",
+  "name": "booking modification",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c47c4d91-e159-4e22-96d3-fb9ff36c0745",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Alright. By what name have you booked rooms in our hotel?"
+            },
+            {
+              "lang": "en",
+              "value": "Okay, what is the name under which the booking has been done?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "48e940fa-759a-4a96-ad34-257e31a33b9f",
+          "name": "date-time",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What are the changes you would like to make?"
+            },
+            {
+              "lang": "en",
+              "value": "Please tell me the changes you want to make in your booking?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f5eead95-f45f-449c-9dee-363a45559fd1",
+          "name": "room-type",
+          "required": false,
+          "dataType": "@room-type",
+          "value": "$room-type",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What are the changes you would like to make?"
+            },
+            {
+              "lang": "en",
+              "value": "Please tell me the changes you want to make in your booking?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay $person. The changes have been made and your updated booking confirmation letter has been sent to you on your previously given email address."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

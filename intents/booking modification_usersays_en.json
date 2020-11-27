@@ -1,0 +1,134 @@
+[
+  {
+    "id": "326cf1ae-aa0f-4d7b-a825-f9f011aa6a2f",
+    "data": [
+      {
+        "text": "I would like to upgrade from ",
+        "userDefined": false
+      },
+      {
+        "text": "double",
+        "meta": "@room-type",
+        "alias": "room-type",
+        "userDefined": true
+      },
+      {
+        "text": " room to ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe",
+        "meta": "@room-type",
+        "alias": "room-type",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddcb7334-6802-4ab0-a383-594e47942036",
+    "data": [
+      {
+        "text": "I would like to change dates to ",
+        "userDefined": false
+      },
+      {
+        "text": "8th January, 2021",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77efd15b-fea8-4bd6-8fca-6fb9fa93bc4e",
+    "data": [
+      {
+        "text": "shireen",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "725d9be7-59f1-45f1-be56-d23b767ed431",
+    "data": [
+      {
+        "text": "is it possible to do any changes to the booking done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "263110a4-0883-4764-8218-85681645113f",
+    "data": [
+      {
+        "text": "there are few changes i would like to do in my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47c33941-1ae5-41e8-acd4-3b2480a8541e",
+    "data": [
+      {
+        "text": "make changes in the booking done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be3adb7a-3b67-4c36-8ff6-24aec3403da6",
+    "data": [
+      {
+        "text": "i need to make changes to the booking done at your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68dd16f6-f7f1-483d-8bb0-6a79b176c76f",
+    "data": [
+      {
+        "text": "hi i would like to modify my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

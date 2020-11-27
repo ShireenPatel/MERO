@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ea1d7847-ab2d-4098-85ab-477e554b1541",
+    "data": [
+      {
+        "text": "how does your hotel look?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "992ef763-f687-4565-a0f2-a1eba06bad0e",
+    "data": [
+      {
+        "text": "show me photo gallery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f72a57e-cd0d-4637-8da3-761acd4e9ae6",
+    "data": [
+      {
+        "text": "show me some pictures of your hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b75cf79-e927-4656-87e6-589c7d84deb2",
+    "data": [
+      {
+        "text": "can you show me some pictures of hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "60946588-d011-4bfc-8c67-ddde316dac2d",
+    "data": [
+      {
+        "text": "what are the pool timings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb9eeeed-311f-4ef0-add1-e6d930107c2b",
+    "data": [
+      {
+        "text": "what are the timings of all activities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b43cbfdf-5e23-4d9a-a3ae-b51d2ac774dd",
+    "data": [
+      {
+        "text": "what games are available in the hotel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb5b3b3d-3647-400e-9736-37f2ecd761e5",
+    "data": [
+      {
+        "text": "is there volleyball court?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "965e7c08-3df9-4a0a-ba72-7e3262b62a90",
+    "data": [
+      {
+        "text": "is there basketball court?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99feb059-6c38-4cd4-9ba1-4a9d52e0dceb",
+    "data": [
+      {
+        "text": "any activities taking place inside the hotel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c89b256-1633-43c8-94ae-f740cc094108",
+    "data": [
+      {
+        "text": "activities in hotel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a728f28b-03c5-4b98-be4b-8b5a8da93f86",
+    "data": [
+      {
+        "text": "are there any activities inside hotel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98ff4bd2-4676-452b-b6d5-23521227f8ca",
+    "data": [
+      {
+        "text": "what activities are performed in the hotel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

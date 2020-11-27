@@ -1,0 +1,73 @@
+{
+  "id": "b7b7b444-ebe8-4efc-9799-ad3edc1eae39",
+  "name": "hotel contact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOEZlP6Fd-EmeD-m-Oba-N0vi1Q7qnlnmZHVOrP\u003dw408-h271-k-no",
+          "title": "The Grand Dragon Hotel",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/The+Grand+Dragon+Ladakh/@34.1565715,77.5783371,17z/data\u003d!3m1!4b1!4m11!1m2!2m1!1sthe+dragon+hotel+leh!3m7!1s0x38fdeb43c1fc9bb9:0x863d867e3c906f70!5m2!4m1!1i2!8m2!3d34.1565715!4d77.5805258",
+              "text": "Location"
+            },
+            {
+              "postback": "http://www.thegranddragonladakh.com/",
+              "text": "Website"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Contact number:  +91 9622433776"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Surrounded by mountains, this grand, high-end hotel is 2 km from the 17th-century Leh Palace, 4 km from the Shanti Stupa golden Buddha and 3 km from Kushok Bakula Rimpochee Airport.\nThe airy, refined rooms feature free Wi-Fi, flat-screen TVs, minifridges, and tea and coffeemaking facilities. Many rooms have balconies and/or mountain views. Suites add separate living rooms, while upgraded suites provide massage chairs. Room service is offered.\nFree breakfast is served in a relaxed cafe. There\u0027s also a Tibetan/Chinese restaurant, a rooftop terrace and a garden, plus a game room, a fitness centre, a sauna and a steam room. Parking is available."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

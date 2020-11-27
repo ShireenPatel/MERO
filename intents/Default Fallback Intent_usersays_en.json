@@ -1,0 +1,41 @@
+[
+  {
+    "id": "8ce70f4d-d040-47fb-9de1-9a8ebff89de2",
+    "data": [
+      {
+        "text": "book restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20e949ae-763a-4f59-8069-d0e59cfb60b6",
+    "data": [
+      {
+        "text": "book movie ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4ec63a8-2002-483c-b4fd-8957b9df02d6",
+    "data": [
+      {
+        "text": "book flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ad43c6d1-9ec1-4f9a-b041-8e5a7941ab52",
+    "data": [
+      {
+        "text": "car for 2 people",
+        "meta": "@transport",
+        "alias": "transport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2107d44-b6f1-48b2-b694-0998365a701d",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "car for 2 people",
+        "meta": "@transport",
+        "alias": "transport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca72bd82-a226-4214-a82c-b975506ca211",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "car for 4 people",
+        "meta": "@transport",
+        "alias": "transport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "254ae4b0-854c-434a-8964-6a83e83144d6",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "car for four people",
+        "meta": "@transport",
+        "alias": "transport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ab76987-1684-48a8-b4be-760e0fcd7c5a",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "mini",
+        "meta": "@transport",
+        "alias": "transport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24a2dc77-f8b1-4015-8bf6-5858432de7e7",
+    "data": [
+      {
+        "text": "I would need a ",
+        "userDefined": false
+      },
+      {
+        "text": "car for 5 people",
+        "meta": "@transport",
+        "alias": "transport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2a178b5-3ef6-4ccf-9938-bd4ae0290c21",
+    "data": [
+      {
+        "text": "i would like to book an ",
+        "userDefined": false
+      },
+      {
+        "text": "SUV",
+        "meta": "@transport",
+        "alias": "transport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e86b7e10-22c8-4bdc-ac66-55b5a7c2bfda",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "big car",
+        "meta": "@transport",
+        "alias": "transport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11dc30e8-8251-4bbe-8a43-6348a16cbb98",
+    "data": [
+      {
+        "text": "Can i reserve a car ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c19b0641-42e9-4507-bab7-4008590ea93f",
+    "data": [
+      {
+        "text": "Will you be sending anyone to pick us up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd881b63-8e51-4ced-85d9-25b3e890b31a",
+    "data": [
+      {
+        "text": "I would need someone to pick me up from the airport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f774b889-eea7-444b-af5c-a1476704082d",
+    "data": [
+      {
+        "text": "Do you offer transportation facility?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

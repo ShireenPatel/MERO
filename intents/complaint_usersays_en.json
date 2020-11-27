@@ -1,0 +1,280 @@
+[
+  {
+    "id": "adf9e054-8b31-47b8-a24c-8633bc0ed89a",
+    "data": [
+      {
+        "text": "i would like to make a complaint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93247731-7a45-4bb4-918e-016c9ac00b5d",
+    "data": [
+      {
+        "text": "i want to make a complaint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "168dc894-17c2-47c1-9cd0-94de3122acfc",
+    "data": [
+      {
+        "text": "Great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "236ffb60-15c0-4791-b047-0ce871e149af",
+    "data": [
+      {
+        "text": "alright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9840dfc5-5cbd-4f8b-8e3b-8e8488164eba",
+    "data": [
+      {
+        "text": "okay thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc04834c-30a0-46c5-8c68-e8591f6a6c4c",
+    "data": [
+      {
+        "text": "why is there no ",
+        "userDefined": false
+      },
+      {
+        "text": "hot water",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      },
+      {
+        "text": " coming at ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb055a86-dcb9-4f36-a069-56f172a2ba0d",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "hot water",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de0ee2f7-0d15-479a-967e-6ae223d3c248",
+    "data": [
+      {
+        "text": "there was no ",
+        "userDefined": false
+      },
+      {
+        "text": "hot water",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b038890-f9ab-4651-a0e1-df7e88c2ba5a",
+    "data": [
+      {
+        "text": "wifi",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      },
+      {
+        "text": " is not working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7171d98a-2d77-4297-90bc-f98a66112f90",
+    "data": [
+      {
+        "text": "Hotel service",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      },
+      {
+        "text": " is really slow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89aecf5a-917d-427f-8f19-4262faa295af",
+    "data": [
+      {
+        "text": "Why is the ",
+        "userDefined": false
+      },
+      {
+        "text": "service",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      },
+      {
+        "text": " so slow here? I had called the desk to bring me fresh towels ",
+        "userDefined": false
+      },
+      {
+        "text": "an hour ago",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and nobody has come yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d2122ac-8cbe-47d9-87cd-642037554a60",
+    "data": [
+      {
+        "text": "why is ",
+        "userDefined": false
+      },
+      {
+        "text": "wifi",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      },
+      {
+        "text": " not working?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a27f70ed-b5ed-4296-85ad-f33e687e59bd",
+    "data": [
+      {
+        "text": "hotel wifi",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      },
+      {
+        "text": " is very slow. You should do something about it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf7914d0-57bf-469c-a563-e58db391d765",
+    "data": [
+      {
+        "text": "I need to make a complaint about ",
+        "userDefined": false
+      },
+      {
+        "text": "poor service",
+        "meta": "@complaints",
+        "alias": "complaints",
+        "userDefined": true
+      },
+      {
+        "text": " in the restaurant.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

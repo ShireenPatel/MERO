@@ -1,0 +1,35 @@
+{
+  "id": "476844ec-4f9e-4b6c-9523-0a35c41ceb28",
+  "name": "clubhouse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All indoor games are available in the clubhouse. Games like table tennis, foosball, chess, air hockey, carrom, pictionary, and bowling are present. A special children\u0027s play area is also present for 2-8 yrs old."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

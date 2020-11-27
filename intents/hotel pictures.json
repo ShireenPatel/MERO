@@ -1,0 +1,86 @@
+{
+  "id": "b1c15240-a14b-4e37-a7ae-2638f34a6746",
+  "name": "hotel pictures",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://pix10.agoda.net/hotelImages/110648/-1/2835bd843f58e3c99f9404f277183338.jpg?s\u003d1024x768",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://pix6.agoda.net/hotelImages/110648/-1/0b802e25af98af8357ce437f859fb11e.jpg?s\u003d1024x768",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://pix6.agoda.net/hotelImages/110648/-1/e376150b13acec092c763ac862aeedc9.jpg?s\u003d1024x768",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://pix6.agoda.net/hotelImages/110/110648/110648_16121313350049637066.jpg?s\u003d1024x768",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://pix6.agoda.net/hotelImages/110648/-1/648bee93e3768d4b8df6faa266e16474.jpg?s\u003d1024x768",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://pix6.agoda.net/hotelImages/110/110648/110648_16121619070049734206.jpg?s\u003d1024x768",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
