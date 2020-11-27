@@ -1,0 +1,41 @@
+[
+  {
+    "value": "towels",
+    "synonyms": [
+      "towels",
+      "towel",
+      "change of towels",
+      "new towels",
+      "more towels",
+      "extra towels"
+    ]
+  },
+  {
+    "value": "water",
+    "synonyms": [
+      "water",
+      "glass of water",
+      "bottled water",
+      "water bottle",
+      "mineral water",
+      "extra water bottles",
+      "new water bottles"
+    ]
+  },
+  {
+    "value": "bed",
+    "synonyms": [
+      "bed",
+      "extra bed"
+    ]
+  },
+  {
+    "value": "bedsheets",
+    "synonyms": [
+      "bedsheets",
+      "new bedsheets",
+      "bedsheet",
+      "change of bedsheets"
+    ]
+  }
+]

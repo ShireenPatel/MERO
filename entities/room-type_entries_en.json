@@ -1,0 +1,32 @@
+[
+  {
+    "value": "single",
+    "synonyms": [
+      "single",
+      "single bed"
+    ]
+  },
+  {
+    "value": "Double",
+    "synonyms": [
+      "double",
+      "standard",
+      "general"
+    ]
+  },
+  {
+    "value": "Deluxe",
+    "synonyms": [
+      "Deluxe",
+      "big",
+      "king size"
+    ]
+  },
+  {
+    "value": "Twin",
+    "synonyms": [
+      "Twin",
+      "separate beds"
+    ]
+  }
+]

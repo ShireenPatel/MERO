@@ -1,0 +1,31 @@
+[
+  {
+    "value": "Mini",
+    "synonyms": [
+      "Mini",
+      "car for two people",
+      "car for one person",
+      "transportation for two people",
+      "transportation for one person"
+    ]
+  },
+  {
+    "value": "Sedan",
+    "synonyms": [
+      "Sedan",
+      "car for four people",
+      "car for 4 people"
+    ]
+  },
+  {
+    "value": "SUV",
+    "synonyms": [
+      "SUV",
+      "big car",
+      "car for 6 people",
+      "car for 5 people",
+      "car for five people",
+      "car for six people"
+    ]
+  }
+]

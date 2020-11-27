@@ -1,0 +1,24 @@
+[
+  {
+    "value": "Wifi",
+    "synonyms": [
+      "Wifi",
+      "internet",
+      "hotel wifi"
+    ]
+  },
+  {
+    "value": "Poor service",
+    "synonyms": [
+      "Poor service",
+      "slow service",
+      "bad service"
+    ]
+  },
+  {
+    "value": "Hot water",
+    "synonyms": [
+      "Hot water"
+    ]
+  }
+]
